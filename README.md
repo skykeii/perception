@@ -1,8 +1,8 @@
-# AccessAI - AI-Powered Accessibility Chrome Extension
+# Perception - AI-Powered Accessibility Chrome Extension
 
-A customizable Chrome extension that empowers users with disabilities to personalize and enhance their web experience through AI-driven accessibility tools.
+A customizable Chrome extension that empowers users with disabilities to personalise and enhance their web experience through AI-driven accessibility tools.
 
-![AccessAI Logo](src/assets/icon-large.png)
+![Perception Logo](src/assets/icon-large.png)
 
 ## Features
 
